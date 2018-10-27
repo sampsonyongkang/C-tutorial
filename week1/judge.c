@@ -16,17 +16,19 @@ int main() {
     }
     */
 
-    /*
-     * switch case
+
+
     switch (x) {
         case 0:
             printf("x = 0");
+            break;
         case 1:
             printf("x = 1");
+            break;
         default:
             printf("x != 0 or 1");
     }
-    */
+
 
     /*
      * ?:
